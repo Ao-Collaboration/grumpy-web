@@ -1,39 +1,42 @@
 // General
-export const PROJECT_NAME = 'Project Name'
+export const PROJECT_NAME = 'GCWC: Grumpy Cantina Wine Club'
 
 // Mint pages
-export const MINT_PAGE_TITLE = 'Mint your NFT now!'
+export const MINT_PAGE_TITLE = 'Go ahead, mint that NFT!'
 
-export const MINT_NOSALE_TITLE = 'Sale not yet live!'
-export const MINT_NOSALE_SUBTEXT = 'Come back soon!'
+export const MINT_NOSALE_TITLE = 'Hold your position, we are not live yet!'
+export const MINT_NOSALE_SUBTEXT = 'Come back soon'
 
-export const MINT_SOLDOUT_TITLE = 'Sold out!'
-export const MINT_SOLDOUT_SUBTEXT = 'Find us on Opensea!'
+export const MINT_SOLDOUT_TITLE = 'Sold out'
+export const MINT_SOLDOUT_SUBTEXT = 'Find us on Opensea'
 
 export const MINT_BTN_TEXT = 'Mint'
 export const MINT_SUPPLY_TEXT = 'Supply'
 export const MINT_SUCCESS = 'Congrats on minting your NFT!'
-export const MINT_FAIL_POOR = 'You don\'t have enought ETH!'
-export const MINT_FAIL_GENERIC = 'Unable to mint!'
-export const MINT_NOT_ALLOWLISTED = 'You aren\'t on the list!'
-export const MINT_ALLOWANCE_EXCEEDED = 'You have claimed your allowance!'
+export const MINT_FAIL_POOR = 'You don\'t have enought ETH, sorry!'
+export const MINT_FAIL_GENERIC = 'Unable to mint.'
+export const MINT_NOT_ALLOWLISTED = 'Cheeky, you aren\'t on the list.'
+export const MINT_ALLOWANCE_EXCEEDED = 'Don\'t get greedy, you reached your allowance limit.'
 
 export const WEBSITE_OUTDATED =
-	'The website is outdated!\nPlease clear your browser cache.'
+	'The website is currently on an old vintage release!\nPlease clear your browser cache.'
 
 export const TX_PENDING = 'Tx Pending...'
 
 // Social links
-export const DISCORD_LINK = ''
-export const TWITTER_LINK = ''
+export const DISCORD_LINK = 'https://discord.gg/Atu3RNBcVE'
+export const TWITTER_LINK = 'https://twitter.com/grumpycantina'
 export const OPENSEA_LINK = ''
 export const AOCOLLAB_LINK = 'https://block.aocollab.tech/'
 
 // Landing Page
-export const HERO_TITLE = 'Project Name'
+export const HERO_TITLE = 'GRUMPY CANTINA WINE CLUB'
 export const HERO_DESCRIPTION =
-	'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida. Integer hendrerit nisl non magna blandit eleifend. Praesent mauris velit, ullamcorper nec ligula sed vestibulum.'
+	'Passionately Pairing Web2 and Web3 with Integrity, Quality, and Camaraderie'
 export const HERO_BUTTON_TEXT = 'Mint Now'
+
+// !!! CONTINUE EDITING FROM HERE !!!
+
 export const HERO_SUBTEXT =
 	'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida.'
 
