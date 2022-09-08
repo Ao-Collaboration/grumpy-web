@@ -5,12 +5,12 @@ export const black = '#2B2D3F'
 export const white = '#FBFFFC'
 
 // Page background
-export const page_background = '#2B2D3F'
+export const page_background = '#8C1528'
 export const page_text = '#FBFFFC'
 
 // Connect and mint buttons
 export const button_background = '#FBFFFC'
-export const button_text = '#3c687d'
+export const button_text = '#8C1528'
 
 // About section
 export const about_background = '#FBFFFC'
