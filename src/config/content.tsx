@@ -38,7 +38,7 @@ export const HERO_BUTTON_TEXT = 'Mint Now'
 export const HERO_SUBTEXT =
 	'CAVA = Community, Art, Value, Actual bottles of wine'
 
-export const ROADMAP_TITLE = 'Roadmap'
+export const ROADMAP_TITLE = 'The Roadmap'
 
 export const TEAM_MEMBER_TITLE = 'The Team Behind GCWC'
 export const TEAM_MEMBERS = [
@@ -65,7 +65,7 @@ export const TEAM_MEMBERS = [
 	},
 ]
 
-export const ABOUT_TITLE = 'About Us'
+export const ABOUT_TITLE = 'About GCWC'
 export const ABOUT_DESCRIPTION =
 	'Welcome to the GCWC, a women-led Web3 social club where your NFT is a membership card that unlocks exclusive benefits, airdrops, and real world utility. Join us as we pursue our mission to passionately pair Web2 and Web3 with integrity, quality, and camaraderie. We are guiding the growth of the brand with three main values: Be Real, Celebrate Each Other, Quality Pairing Makes Everything Better.'
 
