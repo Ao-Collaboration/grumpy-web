@@ -35,42 +35,35 @@ export const HERO_DESCRIPTION =
 	'Passionately Pairing Web2 and Web3 with Integrity, Quality, and Camaraderie'
 export const HERO_BUTTON_TEXT = 'Mint Now'
 
-// !!! CONTINUE EDITING FROM HERE !!!
 
-export const HERO_SUBTEXT =
-	'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida.'
+// export const HERO_SUBTEXT =
+//	'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida.'
+
 
 export const ROADMAP_TITLE = 'Roadmap'
 
-export const TEAM_MEMBER_TITLE = 'Team Members'
+export const TEAM_MEMBER_TITLE = 'The Team Behind GCWC'
 export const TEAM_MEMBERS = [
 	{
-		name: 'Team Member 1',
+		name: 'Grumpy Sommelier | Founder',
 		image: 'avatar1.png',
 		description:
-			'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida. Integer hendrerit nisl non magna blandit eleifend. Praesent mauris velit, ullamcorper nec ligula sed vestibulum.',
+			'Woman or cat? Actually both! Grumpy Sommelier isn\'t a one-woman-band, rather a masterfully crafted web3 persona composed of experienced wine professional - Serena - and the one and only (Queen of All Things) Moya the cat. Serena, an Italian expat living in Middle Earth (New Zealand) holds WSET level 3 certification (equivalent to level 2 sommelier) and dabbles in all things spirits, beers and cocktails. Moya Sparklefarts is the First Of Her Name and queen amongst queens. She is also a tuxedo cat.',
 		twitter: 'team1',
 	},
 	{
-		name: 'Team Member 2',
+		name: 'MilkyTaste | Dev',
 		image: 'avatar2.png',
 		description:
-			'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida. Integer hendrerit nisl non magna blandit eleifend. Praesent mauris velit, ullamcorper nec ligula sed vestibulum.',
+			'MilkyTaste is a corporate full stack developer and CTO whose passion for decentralization and self custody led him towards the world of blockchain. Milky has worked on several high profile NFT projects and created utility including staking, tokenomics, exchanges and marketplaces. He\'s most excited about bring value to users in whatever way makes their lives more easier.',
 		twitter: '',
 	},
 	{
-		name: 'Team Member 3',
+		name: 'Champ Rockwell | Advisor',
 		image: 'avatar3.png',
 		description:
-			'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida. Integer hendrerit nisl non magna blandit eleifend. Praesent mauris velit, ullamcorper nec ligula sed vestibulum.',
+			'An award winning marketing and branding strategist, he brings over a decade of food/bev experience along with extensive training/public speaking skills. Champ brought his skills to web3 with Hunnys, and now looks forward to raising a toast with everyone in the GCWC fam.',
 		twitter: 'team3',
-	},
-	{
-		name: 'Team Member 4',
-		image: 'avatar4.png',
-		description:
-			'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida. Integer hendrerit nisl non magna blandit eleifend. Praesent mauris velit, ullamcorper nec ligula sed vestibulum.',
-		twitter: '',
 	},
 ]
 
