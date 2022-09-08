@@ -1,39 +1,39 @@
 /**
  * Colours
  */
-export const black = '#000'
-export const white = '#FFF'
+export const black = '#2B2D3F'
+export const white = '#FBFFFC'
 
 // Page background
 export const page_background = '#3c687d'
-export const page_text = '#fff'
+export const page_text = '#FBFFFC'
 
 // Connect and mint buttons
-export const button_background = '#FFF'
+export const button_background = '#FBFFFC'
 export const button_text = '#3c687d'
 
 // About section
-export const about_background = '#FFF'
-export const about_text = '#000'
+export const about_background = '#FBFFFC'
+export const about_text = '#2B2D3F'
 
 // Roadmap section
 export const roadmap_background = '#ed962c'
-export const roadmap_text = '#000'
+export const roadmap_text = '#2B2D3F'
 
 // Team section
 export const team_background = '#3c687d'
-export const team_text = '#FFF'
-export const team_member_background = '#FFF'
-export const team_member_text = '#000'
+export const team_text = '#FBFFFC'
+export const team_member_background = '#FBFFFC'
+export const team_member_text = '#2B2D3F'
 
 // FAQ section
 export const faq_background = '#ed962c'
-export const faq_title_text = '#000'
-export const faq_question_background = '#FFF'
-export const faq_question_text = '#000'
+export const faq_title_text = '#2B2D3F'
+export const faq_question_background = '#FBFFFC'
+export const faq_question_text = '#2B2D3F'
 
 // Spinner colour
-export const spinnerColour = '#FFF'
+export const spinnerColour = '#FBFFFC'
 
 // Pop up theme ('light' or 'dark' mode)
 export const TOAST_THEME = 'dark'
