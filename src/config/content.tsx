@@ -47,21 +47,21 @@ export const TEAM_MEMBERS = [
 		image: 'avatar1.png',
 		description:
 			'Italian expat living in Middle Earth (New Zealand), holds a WSET level 3 certification (equivalent to level 2 sommelier) and dabbles in all things wine, spirits, beers, and cocktails. Loyal subject to Moya Sparklefarts First Of Her Name, queen amongst queens.',
-		twitter: 'team1',
+		twitter: 'GrumpySommelier',
 	},
 	{
 		name: 'MilkyTaste | Dev',
 		image: 'avatar2.png',
 		description:
 			'MilkyTaste is a corporate full stack developer whose passion for decentralization and self custody led him towards the world of blockchain. Milky has worked on several high profile NFT projects and created utility including staking, tokenomics, exchanges and marketplaces. He is most excited about bringing value to users in whatever way makes their lives easier.',
-		twitter: '',
+		twitter: 'MilkyTasteEth',
 	},
 	{
 		name: 'Champ Rockwell | Advisor',
 		image: 'avatar3.png',
 		description:
 			'An award winning marketing and branding strategist, he brings over a decade of food/bev experience along with extensive training/public speaking skills. Champ brought his skills to web3 with Hunnys, and now looks forward to raising a toast with everyone in the GCWC fam.',
-		twitter: 'team3',
+		twitter: 'ChampRockwell',
 	},
 ]
 
@@ -74,15 +74,31 @@ export const FAQS = [
 	{
 		title: 'What is Project Name?',
 		description:
-			'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida. Integer hendrerit nisl non magna blandit eleifend. Praesent mauris velit, ullamcorper nec ligula sed vestibulum.',
+			'GCWC: Grumpy Cantina Wine Club.',
 	},
 	{
 		title: 'What will the mint price be?',
 		description:
-			'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida.',
+			'ETH equivalent of roughly 200 USD depending on market strength during mint.',
 	},
 	{
+		title: 'Is every NFT attached to a real bottle of wine?',
+		description: 'No. You have a 1 in 5 chance to mint an NFTs that is linked to a real bottle of wine, and its details can be found in the metadata: Country, Region, Wine, and Grape. We will have the wine bottles kept in a controlled environment until you decide you want it to be shipped to you!',
+	},
+		{
+		title: 'How do I redeem my "real" bottle of wine?',
+		description: 'You can pour your NFT to receive the "real" bottle. You will need to give us a real delivery address, and being wine PO boxes will not be accepted in most Countries. Once you pour your NFT, you will also receive a special effigy of our Glorious Queen.',
+	},
+		{
+		title: 'Do I lose membership if I redeem my wine bottle?',
+		description: 'Nope!',
+	},
+		{
+		title: 'Why should I keep the NFTs if I do not get a physical bottle at mint?',
+		description: 'Glad you asked! Because once we reach our roadmap goal, every month we will host a Luxury bottle raffle to all holders, where 1 NFT = 1 raffle entry',
+	},
+		{
 		title: 'Wen Mint?',
-		description: 'TBD',
+		description: 'Soon.',
 	},
 ]
