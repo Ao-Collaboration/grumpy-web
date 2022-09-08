@@ -5,7 +5,7 @@ export const black = '#2B2D3F'
 export const white = '#FBFFFC'
 
 // Page background
-export const page_background = '#8C1528'
+export const page_background = '#2B2D3F'
 export const page_text = '#FBFFFC'
 
 // Connect and mint buttons
