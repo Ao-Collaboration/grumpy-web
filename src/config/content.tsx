@@ -35,10 +35,8 @@ export const HERO_DESCRIPTION =
 	'Passionately Pairing Web2 and Web3 with Integrity, Quality, and Camaraderie'
 export const HERO_BUTTON_TEXT = 'Mint Now'
 
-
-// export const HERO_SUBTEXT =
-//	'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida.'
-
+export const HERO_SUBTEXT =
+	'CAVA = Community, Art, Value, Actual bottles of wine'
 
 export const ROADMAP_TITLE = 'Roadmap'
 
@@ -48,14 +46,14 @@ export const TEAM_MEMBERS = [
 		name: 'Grumpy Sommelier | Founder',
 		image: 'avatar1.png',
 		description:
-			'Woman or cat? Actually both! Grumpy Sommelier isn\'t a one-woman-band, rather a masterfully crafted web3 persona composed of experienced wine professional - Serena - and the one and only (Queen of All Things) Moya the cat. Serena, an Italian expat living in Middle Earth (New Zealand) holds WSET level 3 certification (equivalent to level 2 sommelier) and dabbles in all things spirits, beers and cocktails. Moya Sparklefarts is the First Of Her Name and queen amongst queens. She is also a tuxedo cat.',
+			'Italian expat living in Middle Earth (New Zealand), holds a WSET level 3 certification (equivalent to level 2 sommelier) and dabbles in all things wine, spirits, beers, and cocktails. Loyal subject to Moya Sparklefarts First Of Her Name, queen amongst queens.',
 		twitter: 'team1',
 	},
 	{
 		name: 'MilkyTaste | Dev',
 		image: 'avatar2.png',
 		description:
-			'MilkyTaste is a corporate full stack developer and CTO whose passion for decentralization and self custody led him towards the world of blockchain. Milky has worked on several high profile NFT projects and created utility including staking, tokenomics, exchanges and marketplaces. He\'s most excited about bring value to users in whatever way makes their lives more easier.',
+			'MilkyTaste is a corporate full stack developer whose passion for decentralization and self custody led him towards the world of blockchain. Milky has worked on several high profile NFT projects and created utility including staking, tokenomics, exchanges and marketplaces. He is most excited about bringing value to users in whatever way makes their lives easier.',
 		twitter: '',
 	},
 	{
@@ -69,7 +67,7 @@ export const TEAM_MEMBERS = [
 
 export const ABOUT_TITLE = 'About Us'
 export const ABOUT_DESCRIPTION =
-	'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor iaculis gravida. Integer hendrerit nisl non magna blandit eleifend. Praesent mauris velit, ullamcorper nec ligula sed vestibulum.'
+	'Welcome to the GCWC, a women-led Web3 social club where your NFT is a membership card that unlocks exclusive benefits, airdrops, and real world utility. Join us as we pursue our mission to passionately pair Web2 and Web3 with integrity, quality, and camaraderie. We are guiding the growth of the brand with three main values: Be Real, Celebrate Each Other, Quality Pairing Makes Everything Better.'
 
 export const FAQ_TITLE = 'FAQs'
 export const FAQS = [
