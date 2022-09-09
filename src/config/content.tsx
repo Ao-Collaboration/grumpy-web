@@ -66,8 +66,6 @@ export const TEAM_MEMBERS = [
 ]
 
 export const ABOUT_TITLE = 'About GCWC'
-export const ABOUT_DESCRIPTION =
-	'Welcome to the GCWC, a women-led Web3 social club where your NFT is a membership card that unlocks exclusive benefits, airdrops, and real world utility. Join us as we pursue our mission to passionately pair Web2 and Web3 with integrity, quality, and camaraderie. We are guiding the growth of the brand with three main values: Be Real, Celebrate Each Other, Quality Pairing Makes Everything Better.'
 
 export const FAQ_TITLE = 'FAQs'
 export const FAQS = [

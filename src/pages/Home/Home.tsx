@@ -3,7 +3,6 @@ import PageWrapper from '../../components/PageWrapper/PageWrapper'
 import useStyles from './Home.styles'
 import { useNavigate } from 'react-router-dom'
 import {
-	ABOUT_DESCRIPTION,
 	ABOUT_TITLE,
 	FAQS,
 	FAQ_TITLE,
@@ -16,6 +15,7 @@ import {
 } from '../../config/content'
 import Button from '../../components/Button/Button'
 import roadmapFile from '../../config/roadmap.md'
+import aboutFile from '../../config/about.md'
 import Accordion from '../../components/Accordion/Accordion'
 import { useEffect, useState } from 'react'
 import ReactMarkdown from 'react-markdown'
@@ -29,11 +29,15 @@ const Home: React.FC = () => {
 	const classes = useStyles()
 
 	const [roadMapContent, setRoadMapContent] = useState<string>()
+	const [aboutContent, setAboutContent] = useState<string>()
 
 	useEffect(() => {
 		fetch(roadmapFile)
 			.then(res => res.text())
 			.then(text => setRoadMapContent(text))
+		fetch(aboutFile)
+			.then(res => res.text())
+			.then(text => setAboutContent(text))
 	}, [])
 
 	return (
@@ -59,7 +63,11 @@ const Home: React.FC = () => {
 				<section id="about" className={classes.about}>
 					<div>
 						<h2>{ABOUT_TITLE}</h2>
-						<p>{ABOUT_DESCRIPTION}</p>
+						{aboutContent?.length ? (
+							<ReactMarkdown children={aboutContent} />
+						) : (
+							<Spinner />
+						)}
 						<img
 							src={`${PUBLIC_URL}/img/about.png`}
 							className={classes.image}
