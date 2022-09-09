@@ -35,8 +35,8 @@ export const HERO_DESCRIPTION =
 	'Passionately Pairing Web2 and Web3 with Integrity, Quality, and Camaraderie'
 export const HERO_BUTTON_TEXT = 'Minting Soon'
 
-// export const HERO_SUBTEXT =
-// 'CAVA = Community, Art, Value, Actual bottles of wine'
+export const HERO_SUBTEXT =
+        ''
 
 export const ROADMAP_TITLE = 'The Roadmap'
 
