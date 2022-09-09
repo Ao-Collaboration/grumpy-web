@@ -36,7 +36,6 @@ const styles = {
 	},
 	description: {
 		fontSize: '0.9rem',
-		textAlign: 'justify',
 		paddingBottom: '1em',
 	},
 }
