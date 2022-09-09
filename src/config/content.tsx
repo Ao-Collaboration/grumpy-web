@@ -33,10 +33,10 @@ export const AOCOLLAB_LINK = 'https://block.aocollab.tech/'
 export const HERO_TITLE = 'GRUMPY CANTINA WINE CLUB'
 export const HERO_DESCRIPTION =
 	'Passionately Pairing Web2 and Web3 with Integrity, Quality, and Camaraderie'
-export const HERO_BUTTON_TEXT = 'Mint Now'
+export const HERO_BUTTON_TEXT = 'Minting Soon'
 
-export const HERO_SUBTEXT =
-	'CAVA = Community, Art, Value, Actual bottles of wine'
+// export const HERO_SUBTEXT =
+// 	'CAVA = Community, Art, Value, Actual bottles of wine'
 
 export const ROADMAP_TITLE = 'The Roadmap'
 
