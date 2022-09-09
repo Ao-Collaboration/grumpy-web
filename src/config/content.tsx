@@ -85,19 +85,19 @@ export const FAQS = [
 		title: 'Is every NFT attached to a real bottle of wine?',
 		description: 'No. You have a 1 in 5 chance to mint an NFTs that is linked to a real bottle of wine, and its details can be found in the metadata: Country, Region, Wine, and Grape. We will have the wine bottles kept in a controlled environment until you decide you want it to be shipped to you!',
 	},
-		{
+	{
 		title: 'How do I redeem my "real" bottle of wine?',
 		description: 'You can pour your NFT to receive the "real" bottle. You will need to give us a real delivery address, and being wine PO boxes will not be accepted in most Countries. Once you pour your NFT, you will also receive a special effigy of our Glorious Queen.',
 	},
-		{
+	{
 		title: 'Do I lose membership if I redeem my wine bottle?',
 		description: 'Nope!',
 	},
-		{
+	{
 		title: 'Why should I keep the NFTs if I do not get a physical bottle at mint?',
 		description: 'Glad you asked! Because once we reach our roadmap goal, every month we will host a Luxury bottle raffle to all holders, where 1 NFT = 1 raffle entry',
 	},
-		{
+	{
 		title: 'Wen Mint?',
 		description: 'Soon.',
 	},
