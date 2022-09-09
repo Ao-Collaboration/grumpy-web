@@ -36,7 +36,7 @@ export const HERO_DESCRIPTION =
 export const HERO_BUTTON_TEXT = 'Minting Soon'
 
 // export const HERO_SUBTEXT =
-// 	'CAVA = Community, Art, Value, Actual bottles of wine'
+// 'CAVA = Community, Art, Value, Actual bottles of wine'
 
 export const ROADMAP_TITLE = 'The Roadmap'
 
