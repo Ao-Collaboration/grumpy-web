@@ -43,13 +43,6 @@ export const ROADMAP_TITLE = 'The Road to GCWC'
 export const TEAM_MEMBER_TITLE = 'The Team Behind GCWC'
 export const TEAM_MEMBERS = [
 	{
-		name: 'Moya Sparklefarts, First of Her Name | Queen',
-		image: 'moya_avatar.png',
-		description:
-			'The Tuxedo cat who made all of this possible by existing.',
-		twitter: '',
-	},
-	{
 		name: 'Grumpy Sommelier | Founder',
 		image: 'grumpy_avatar.png',
 		description:
@@ -69,6 +62,13 @@ export const TEAM_MEMBERS = [
 		description:
 			'An award winning marketing and branding strategist, he brings over a decade of food/bev experience along with extensive training/public speaking skills. Champ brought his skills to web3 with Hunnys, and now looks forward to raising a toast with everyone in the GCWC fam.',
 		twitter: 'ChampRockwell',
+	},
+	{
+		name: 'Moya Sparklefarts, First of Her Name | Queen',
+		image: 'moya_avatar.png',
+		description:
+			'The Tuxedo cat who made all of this possible by existing.',
+		twitter: '',
 	},
 ]
 
