@@ -53,14 +53,14 @@ export const TEAM_MEMBERS = [
 		name: 'MilkyTaste | Dev',
 		image: 'milky_avatar.png',
 		description:
-			'MilkyTaste is a corporate full stack developer whose passion for decentralization and self custody led him towards the world of blockchain. Milky has worked on several high profile NFT projects and created utility including staking, tokenomics, exchanges and marketplaces. He is most excited about bringing value to users in whatever way makes their lives easier.',
+			'Corporate full stack developer whose passion for decentralization and self custody led him towards the world of blockchain. Milky has worked on several high profile NFT projects and created utility including staking, tokenomics, exchanges and marketplaces. He is most excited about bringing value to users in whatever way makes their lives easier.',
 		twitter: 'MilkyTasteEth',
 	},
 	{
 		name: 'Champ Rockwell | Advisor',
 		image: 'champ_avatar.png',
 		description:
-			'An award winning marketing and branding strategist, he brings over a decade of food/bev experience along with extensive training/public speaking skills. Champ brought his skills to web3 with Hunnys, and now looks forward to raising a toast with everyone in the GCWC fam.',
+			'Award winning marketing and branding strategist, he brings over a decade of food/bev experience along with extensive training/public speaking skills. Champ brought his skills to web3 with Hunnys, and now looks forward to raising a toast with everyone in the GCWC fam.',
 		twitter: 'ChampRockwell',
 	},
 	{
