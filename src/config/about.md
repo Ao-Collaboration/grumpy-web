@@ -3,6 +3,9 @@ Welcome to the **GCWC**, a women-led Web3 social club where your NFT is a member
 Join us as we pursue our mission to **passionately pair Web2 and Web3 with integrity, quality, and camaraderie**. We are guiding the growth of the brand with three main values: Be Real, Celebrate Each Other, Quality Pairing Makes Everything Better.
 
 
+
+<img style="float: right;" src="https://github.com/Ao-Collaboration/grumpy-web/blob/1d466d0168869d328e2a1c50fa328efc3200d80d/public/logo_192.png">
+
 ### The Collection
 
 **Grumpy Cantina Wine Club** is a collection of 6,006 algorithmically generated NFTs on the Ethereum blockchain, assembled from over 200 traits. No two of them are identical.
