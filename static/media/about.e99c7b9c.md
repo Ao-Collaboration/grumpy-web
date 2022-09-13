@@ -27,5 +27,5 @@ Even more exciting, **each NFT has a 1 to 5 chance to win a physical bottle of w
 Each NFT has a 1 to 5 chance to win a physical bottle of wine.
 Out of 6,006 total, that is 1,000 Prestige and 6 Luxury (the 1:1 Legendary!)
 
-a Prestige bottle is special, can be kept for a long time, has inherent collectible value, and is worth around 200 USD;
-a Luxury bottle is a the stuff made of Legends. The top of the top of the line, special bottles that are often limited release, from the most renown wineries, and are worth over 500 USD - and sometimes LOTS more.
+* a **Prestige** bottle is special, can be kept for a long time, has inherent collectible value, and is worth around 200 USD;
+* a **Luxury bottle** is a the stuff made of *Legends*. The top of the top of the line, special bottles that are often limited release, from the most renown wineries, and are worth over 500 USD - and sometimes LOTS more.
