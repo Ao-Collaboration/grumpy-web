@@ -38,27 +38,34 @@ export const HERO_BUTTON_TEXT = 'Minting Soon'
 export const HERO_SUBTEXT =
         ''
 
-export const ROADMAP_TITLE = 'The Roadmap'
+export const ROADMAP_TITLE = 'The Road to GCWC'
 
 export const TEAM_MEMBER_TITLE = 'The Team Behind GCWC'
 export const TEAM_MEMBERS = [
 	{
+		name: 'Moya Sparklefarts, First of Her Name | Queen',
+		image: 'moya_avatar.png',
+		description:
+			'The Tuxedo cat who made all of this possible by existing.',
+		twitter: '',
+	},
+	{
 		name: 'Grumpy Sommelier | Founder',
-		image: 'avatar1.png',
+		image: 'grumpy_avatar.png',
 		description:
 			'Italian expat living in Middle Earth (New Zealand), holds a WSET level 3 certification (equivalent to level 2 sommelier) and dabbles in all things wine, spirits, beers, and cocktails. Loyal subject to Moya Sparklefarts First Of Her Name, queen amongst queens.',
 		twitter: 'GrumpySommelier',
 	},
 	{
 		name: 'MilkyTaste | Dev',
-		image: 'avatar2.png',
+		image: 'milky_avatar.png',
 		description:
 			'MilkyTaste is a corporate full stack developer whose passion for decentralization and self custody led him towards the world of blockchain. Milky has worked on several high profile NFT projects and created utility including staking, tokenomics, exchanges and marketplaces. He is most excited about bringing value to users in whatever way makes their lives easier.',
 		twitter: 'MilkyTasteEth',
 	},
 	{
 		name: 'Champ Rockwell | Advisor',
-		image: 'avatar3.png',
+		image: 'champ_avatar.png',
 		description:
 			'An award winning marketing and branding strategist, he brings over a decade of food/bev experience along with extensive training/public speaking skills. Champ brought his skills to web3 with Hunnys, and now looks forward to raising a toast with everyone in the GCWC fam.',
 		twitter: 'ChampRockwell',
