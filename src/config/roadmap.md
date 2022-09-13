@@ -1,19 +1,37 @@
-### Phase One
+### 0% AKA NOW — “CAVA”
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum feugiat dignissim lorem, ut facilisis lorem scelerisque vitae. Cras aliquam justo ut pulvinar eleifend. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas semper ultricies augue vel vehicula. Morbi bibendum eros sed felis consequat blandit. Vestibulum ultricies sit amet odio sit amet sollicitudin. Nunc in gravida turpis, et vulputate justo. Donec interdum at felis sit amet sodales. Duis ut leo vel diam consectetur dictum eu non odio.
+We are not waiting for sales goals or milestones to start the party!
 
-### Phase Two
+We are working everyday to bring value to your wallet, your life, and your community. “CAVA” is our fancy, catchy, memorable acronym that outlines who we are and what we do.
 
-Etiam finibus neque in leo commodo, sed _iaculis nulla bibendum_. Phasellus pretium sapien tincidunt aliquet vehicula. Suspendisse dignissim placerat enim sit amet egestas. Pellentesque ornare sapien a maximus efficitur. Suspendisse potenti. Nullam a massa faucibus, sollicitudin nulla nec, tempus orci. Integer eu venenatis quam. Ut bibendum eros in elementum dictum. Praesent sit amet nunc et est auctor fringilla eget non eros. Nunc condimentum imperdiet rutrum. Nullam ornare, neque varius tempus feugiat, neque lectus luctus nunc, ac eleifend lacus lectus non lorem. Phasellus convallis arcu erat, eget sollicitudin turpis rhoncus non. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[Check out Why Grumpy Cantina Wine Club? AKA — The Elevator Pitch for the full article on CAVA](https://medium.com/grumpy-cantina-wine-club/why-grumpy-cantina-wine-club-aka-the-elevator-pitch-9b6862282b83).
 
-### Phase Three
 
-**Integer imperdiet convallis eros.** Suspendisse sit amet ex vehicula, accumsan tellus ac, placerat quam. Integer cursus justo sit amet arcu egestas auctor. Vivamus eleifend magna at justo sagittis egestas. Vestibulum nec ultricies nibh. Quisque consequat hendrerit ex ut interdum. Donec sit amet nisi pellentesque, consectetur orci nec, lacinia ligula.
 
-### Phase Four
+### 50% Sold — Art Airdrops and Custom Cocktails
 
-- Suspendisse laoreet tempor dictum.
-- Proin eu mattis lorem, non sagittis eros.
-- Quisque facilisis mauris nunc, at vulputate ligula elementum quis.
-- Aliquam ut erat at ipsum imperdiet ornare.
-- Aliquam dictum metus in purus interdum mollis.
+As part of “CAVA” we are (literally, right now, as I type) finalizing commissions and assembling an amazing collection of art to share with you.
+
+This is the same collection we’ll be sharing on restaurant walls and in your wallet. The lounge/coffee shop/bar/gallery/ display program has begun in earnest, but at 50% sold we’ll start the airdrops. Along with the art we’ll be creating custom cocktails in honor of the collections/artists they represent.
+
+There will be plenty of communication on the way so you’ll be prepared for any snapshot or deadline dates.
+
+
+
+### 75% Sold — Luxury Bottle Raffles
+
+As you may recall, there are 6 Luxury bottles available in the collection. Mint one and it’s all yours, have it mailed straight to your home — but that ain’t it!
+
+**There are more chances to get your hands on a LUXURY BOTTLE 🍾**
+
+To keep the party going we’ll be giving away exquisite bottles of wine curated by Grumpy Sommelier herself. After hitting the roadmap goal, we’ll raffle off a luxury bottle every month for a year. It’ll be one of these you see below, or something similar in terms of quality and prestige.
+
+
+
+### 100% SOLD — Happy Hour
+
+Web3, NFTs, Metaverse — this generation of technology is still in its infancy.
+
+As a web3 social club, Grumpy Cantina plans to make waves and grow in the space — *as a holder, you get a voice on future initiatives*. Your vote will influence the direction of the club. New opportunities and new challenges will appear and we’ll continue to bridge the gap between web2 and web3.
+
+Alongside these new initiatives, we will be fast-tracking the production of the Official Grumpy Cantina Wine Club Art Book which will include the volume GCWC art, cocktails, wine knowledge, and much more…
